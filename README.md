@@ -42,6 +42,6 @@ Language: Java
 
 <div align="center">
 
-Developed with ♡ as a university team project.
+Developed with  as a university team project.
 
 </div>
