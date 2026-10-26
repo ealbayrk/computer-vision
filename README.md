@@ -1,46 +1,47 @@
 <div align="center">
 
-👑 Java Face Similarity Analyzer
+👑 Princess Match
 
-✨ Which Princess Are You? ✨
+Java Face Similarity Analyzer
 
-A little magic powered by Computer Vision.
+A computer vision project inspired by a little bit of magic.
 
-A Java desktop application that matches your photo with a princess character using face detection and image similarity.
+Java · OpenCV · Swing · Image Processing
 
-🌸 Java · OpenCV · Swing · Image Processing 🌸
-
-⸻
-
-🎀 Features
-
-🌷 Face Detection — OpenCV Haar Cascade
-🪞 Image Matching — HSV Color Histograms
-💌 Drag & Drop — Upload your photo easily
-✨ Desktop GUI — Built with Java Swing
+</div>
 
 ⸻
 
-🪄 How the Magic Works
+Overview
 
-📸 Upload a Photo
-↓
-🔍 Detect the Face
-↓
-💗 Compare Image Histograms
-↓
-👑 Discover Your Princess Match!
+Princess Match is a Java desktop application that compares a user’s photo with a collection of princess characters to find the closest visual match.
+
+Developed as a university Computer Vision team project, it combines face detection, image processing, and a simple interactive interface.
+
+Features
+
+Feature	Implementation
+Face Detection	OpenCV Haar Cascade
+Image Comparison	HSV Histogram Correlation
+Desktop Interface	Java Swing
+Image Upload	Drag & Drop
+
+How It Works
+
+Upload a photo → Detect the face → Compare histograms → Find your princess match
+
+The application uses color-based image similarity rather than AI-based facial recognition.
+
+Project Details
+
+Course: Computer Vision
+Type: Academic Team Project
+Language: Java
 
 ⸻
 
-🏰 About the Project
+<div align="center">
 
-Developed collaboratively as a university Computer Vision course project.
-
-An exploration of image processing, face detection, and visual similarity using Java and OpenCV.
-
-⸻
-
-Made with 💗 by a university project team
+Developed with ♡ as a university team project.
 
 </div>
